@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/birkscinema.co.uk",
     "slug": "birks-cinema",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 340,
-    "timeDay": 253,
-    "timeWeek": 266,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 336,
+    "timeDay": 267,
+    "timeWeek": 277,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2021-10-12": 72
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 212,
-    "timeWeek": 301,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 347,
+    "timeDay": 211,
+    "timeWeek": 272,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   }
 ]
