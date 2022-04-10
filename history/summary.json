@@ -29,7 +29,7 @@
     "url": "https://beerclub.birkscinema.co.uk",
     "icon": "https://favicons.githubusercontent.com/beerclub.birkscinema.co.uk",
     "slug": "birks-cinema-beer-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 218,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2022-04-10": 0,
       "2022-01-29": 25
     }
   }
