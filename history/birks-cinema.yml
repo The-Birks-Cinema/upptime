@@ -1,7 +1,7 @@
 url: https://birkscinema.co.uk
-status: up
-code: 200
-responseTime: 230
-lastUpdated: 2022-07-02T23:08:20.005Z
+status: down
+code: 500
+responseTime: 3047
+lastUpdated: 2022-07-03T19:11:34.655Z
 startTime: Tue Oct 05 2021 11:00:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
