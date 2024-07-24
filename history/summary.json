@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/birkscinema.co.uk.ico",
     "slug": "birks-cinema",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 226,
-    "timeDay": 300,
-    "timeWeek": 165,
-    "timeMonth": 248,
-    "timeYear": 213,
+    "time": 225,
+    "timeDay": 51,
+    "timeWeek": 160,
+    "timeMonth": 246,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-06-19": 382,
       "2024-06-18": 60,
@@ -26,8 +26,7 @@
       "2024-06-09": 218,
       "2024-06-01": 143,
       "2024-05-31": 214,
-      "2024-03-16": 39,
-      "2023-07-25": 27
+      "2024-03-16": 39
     }
   },
   {
@@ -42,13 +41,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 1163,
-    "timeWeek": 357,
-    "timeMonth": 265,
-    "timeYear": 243,
+    "timeDay": 185,
+    "timeWeek": 314,
+    "timeMonth": 267,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-03-16": 20,
-      "2023-07-25": 26
+      "2024-03-16": 20
     }
   }
 ]
