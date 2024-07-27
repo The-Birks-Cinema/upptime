@@ -1,7 +1,7 @@
 url: https://beerclub.birkscinema.co.uk
-status: up
-code: 200
-responseTime: 118
-lastUpdated: 2024-07-26T23:09:06.464Z
+status: down
+code: 500
+responseTime: 110
+lastUpdated: 2024-07-27T07:32:51.140Z
 startTime: 2021-10-05T11:00:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
