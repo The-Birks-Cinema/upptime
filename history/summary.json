@@ -35,18 +35,19 @@
     "url": "https://beerclub.birkscinema.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/beerclub.birkscinema.co.uk.ico",
     "slug": "birks-cinema-beer-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 118,
-    "timeWeek": 290,
-    "timeMonth": 259,
+    "timeDay": 114,
+    "timeWeek": 267,
+    "timeMonth": 254,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2024-07-27": 0,
       "2024-03-16": 20
     }
   }
