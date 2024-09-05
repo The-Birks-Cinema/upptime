@@ -6,14 +6,14 @@
     "slug": "birks-cinema",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "90.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.58%",
     "time": 227,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 219,
+    "timeDay": 195,
+    "timeWeek": 233,
+    "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-09-03": 132,
@@ -43,10 +43,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 96,
-    "timeWeek": 145,
-    "timeMonth": 197,
-    "timeYear": 233,
+    "timeDay": 175,
+    "timeWeek": 140,
+    "timeMonth": 199,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2024-03-16": 20
     }
