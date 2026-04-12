@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 321,
-    "timeDay": 418,
-    "timeWeek": 403,
-    "timeMonth": 382,
-    "timeYear": 341,
+    "timeDay": 373,
+    "timeWeek": 432,
+    "timeMonth": 374,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2026-02-11": 102,
       "2026-01-01": 33,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beerclub.birkscinema.co.uk.ico",
     "slug": "birks-cinema-beer-club",
     "status": "down",
-    "uptime": "74.66%",
+    "uptime": "74.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 241,
-    "timeDay": 237,
-    "timeWeek": 232,
-    "timeMonth": 229,
-    "timeYear": 227,
+    "timeDay": 346,
+    "timeWeek": 254,
+    "timeMonth": 232,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-04-11": 119,
+      "2026-04-12": 132,
+      "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
@@ -401,8 +402,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   }
 ]
